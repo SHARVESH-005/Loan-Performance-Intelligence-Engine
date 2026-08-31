@@ -1,0 +1,19 @@
+{
+    "rules": [
+        {
+            "name": "balance_consistency",
+            "expression": "current_balance <= original_balance * 1.05",
+            "description": "Balance should not exceed original significantly."
+        },
+        {
+            "name": "date_validity",
+            "expression": "origination_month <= reporting_month",
+            "description": "Origination cannot be after reporting."
+        },
+        {
+            "name": "document_gap",
+            "expression": "document_status == 'Complete'",
+            "description": "Documents must be complete."
+        }
+    ]
+}

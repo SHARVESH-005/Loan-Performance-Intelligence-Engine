@@ -1,0 +1,11 @@
+# Data Dictionary
+- `loan_id`: Unique loan identifier.
+- `reporting_month`: As-of month.
+- `origination_month`: Month loan was originated.
+- `loan_age_months`: Months since origination.
+- `remaining_term_months`: Scheduled months to maturity.
+- `original_balance`: Balance at origination.
+- `current_balance`: Outstanding balance.
+- `interest_rate`: Note interest rate.
+- `credit_score_band`: Binned credit score.
+- `current_status`: Current payment status (Current, 30 DPD, etc.).

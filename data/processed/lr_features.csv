@@ -1,0 +1,47 @@
+month_index
+loan_age_months
+remaining_term_months
+original_balance
+current_balance
+interest_rate
+days_past_due
+balance_ratio
+rate_spread
+months_since_last_update
+credit_score_band_ord
+ltv_band_ord
+dti_band_ord
+prev_balance
+balance_change
+prev_dpd
+dpd_change
+state_CA
+state_FL
+state_GA
+state_IL
+state_MI
+state_NC
+state_NY
+state_OH
+state_PA
+state_TX
+state_nan
+loan_purpose_Purchase
+loan_purpose_Refinance-Cashout
+loan_purpose_Refinance-Rate-Term
+loan_purpose_nan
+occupancy_type_Investment
+occupancy_type_Owner-Occupied
+occupancy_type_Second Home
+occupancy_type_nan
+property_type_Condo
+property_type_Multi-Unit
+property_type_Single-Family
+property_type_nan
+servicer_name_Servicer A
+servicer_name_Servicer B
+servicer_name_Servicer C
+servicer_name_nan
+document_status_Complete
+document_status_Missing_Doc
+document_status_nan
