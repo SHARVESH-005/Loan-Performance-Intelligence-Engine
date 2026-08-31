@@ -1,4 +1,0 @@
-scenario,next_3m_delinquency_flag_prob,next_12m_default_flag_prob,next_12m_prepayment_flag_prob
-Adverse_Credit,47.6%,0.02%,0.12%
-Base,9.65%,0.04%,0.7%
-High_Prepayment,9.93%,0.03%,0.7%

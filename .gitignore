@@ -1,6 +1,18 @@
+# Environments and Cache
 .venv/
 __pycache__/
 .pytest_cache/
 .ipynb_checkpoints/
 *.pyc
 .env
+
+# Large Data & Models
+data/processed/*.csv
+data/processed/**/*.joblib
+data/processed/**/*.pkl
+data/raw/*.csv
+
+# Logs & Binaries
+*.log
+*.zip
+*.mp4
